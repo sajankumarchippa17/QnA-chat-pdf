@@ -1,0 +1,16 @@
+python-dotenv
+langchain
+langchain-openai
+ipykernel
+langchain_community
+faiss-cpu
+streamlit
+langchain_groq
+langchain_core
+fastapi
+uvicorn
+langserve
+faiss-cpu
+langchain-chroma
+streamlit
+pypdf
